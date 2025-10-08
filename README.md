@@ -7,6 +7,7 @@ sora视频秒去水印源码
 ```bash
 https://sora.codeai.my/links/{视频地址}
 ```
+响应示例：
 ```bash
 {
   "post_id": "s_68df3f261e6081919c0e1ceffc14c8b9",
