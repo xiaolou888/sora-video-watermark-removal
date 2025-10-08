@@ -29,3 +29,4 @@ https://sora.codeai.my/links/{视频地址}
 ```
 - 目前是免费的，大家且用且珍惜
 - 前端大家自己去找代码搞一个就行
+- 感谢https://sora.codeai.my提供的接口
