@@ -4,8 +4,10 @@ soar很强大，但是有水印很不方便，我找到了一个去sora水印的
 
 解析接口
 解析接口地址：
+```bash
 https://sora.codeai.my/links/{视频地址}
-
+```
+```bash
 {
   "post_id": "s_68df3f261e6081919c0e1ceffc14c8b9",
   "links": {
@@ -24,5 +26,6 @@ https://sora.codeai.my/links/{视频地址}
     "like_count": 0
   }
 }
+```
 目前是免费的，大家且用且珍惜
 前端大家自己去找代码搞一个就行
