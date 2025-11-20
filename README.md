@@ -10,21 +10,21 @@ https://api.dyysy.com/links1115/{视频地址}
 响应示例：
 ```bash
 {
-  "original_input": "https:/sora.chatgpt.com/p/s_68df3f261e6081919c0e1ceffc14c8b9",
+  "post_id": "s_691a02ebf3108191a0378a6cf87abd0a",
+  "original_input": "115/https:/sora.chatgpt.com/p/s_691a02ebf3108191a0378a6cf87abd0a",
   "links": {
-    "mp4_wm": "https://oscdn.dyysy.com/wm/s_68df3f261e6081919c0e1ceffc14c8b9.mp4",
-    "gif": "https://oscdn.dyysy.com/GIF/s_68df3f261e6081919c0e1ceffc14c8b9.gif",
-    "md": "https://oscdn.dyysy.com/MD/s_68df3f261e6081919c0e1ceffc14c8b9.mp4",
-    "thumbnail": "https://oscdn.dyysy.com/THUMBNAIL/s_68df3f261e6081919c0e1ceffc14c8b9.webp",
-    "mp4": "https://oscdn.dyysy.com/MP4/s_68df3f261e6081919c0e1ceffc14c8b9.mp4"
+    "gif": "https://oscdn1.dyysy.com/GIF/s_691a02ebf3108191a0378a6cf87abd0a.gif",
+    "mp4_wm": "https://oscdn2.dyysy.com/MP4/s_691a02ebf3108191a0378a6cf87abd0a.mp4",
+    "thumbnail": "https://oscdn1.dyysy.com/THUMBNAIL/s_691a02ebf3108191a0378a6cf87abd0a.webp",
+    "md": "https://oscdn1.dyysy.com/MD/s_691a02ebf3108191a0378a6cf87abd0a.mp4",
+    "mp4": "https://oscdn2.dyysy.com/MP4/s_691a02ebf3108191a0378a6cf87abd0a.mp4"
   },
-  "post_id": "s_68df3f261e6081919c0e1ceffc14c8b9",
   "post_info": {
+    "view_count": 241554,
+    "like_count": 4686,
+    "title": "Red Bull gave her wings… and she never came back 😭🪽",
     "prompt": null,
-    "view_count": 21,
-    "like_count": 0,
-    "attachments_count": 1,
-    "title": "@sama 来到中国白沟，白沟河道国际箱包交易城，并称赞这里，走进男包店和店主沟通，并且拿起一个包背在身上，然后称赞这个包包，全程中文交流"
+    "attachments_count": 1
   }
 }
 ```
