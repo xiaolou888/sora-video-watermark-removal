@@ -5,7 +5,7 @@ sora2视频秒去水印源码
 ### 解析接口
 解析接口地址：
 ```bash
-https://api.dyysy.com/links/{视频地址}
+https://api.dyysy.com/links1115/{视频地址}
 ```
 响应示例：
 ```bash
@@ -28,9 +28,9 @@ https://api.dyysy.com/links/{视频地址}
   }
 }
 ```
-- 目前是免费的，大家且用且珍惜
+- 这个是公共接口
 - 前端大家自己去找代码搞一个就行
-- 感谢[大洋芋去水印](https://api.dyysy.com/links/)提供的接口
+- 感谢[大洋芋去水印](https://api.dyysy.com/links1115/)提供的公共接口，如果有商业行为，我还是建议大家去购买
 
 ### 去水印源码
 - 我也找了几个去水印的源码，都是网上的，我放在这里，需要的自己拿
