@@ -38,8 +38,9 @@ https://api.dyysy.com/links1115/{视频地址}
 - [陆大湿去水印小程序](https://github.com/xiaolou888/ludashi)
 - [简易单网页sora去水印](https://github.com/xiaolou888/qushuiyin-jianyi)
 ### 下载sora原地址无水印视频接口
-- 如果需要下载原地址视频，可以使用https://open.api.yuantoai.com 他家的接口
+- 如果需要下载原地址视频，可以使用https://api.yuantoai.com 他家的接口
 - 登录后在接口查询页面可以找到接口地址，复制下来
 - 最主要的是这个接口可以下载官方原地址视频，是的，***<span style="color:red">官方原地址视频</span>***
+- 只需要把解析出来的地址域名换成官方的域名就是原地址了
 ![图片/api.png](https://github.com/xiaolou888/qushuiyin-jianyi/blob/main/图片/api.png)
 ![图片/3.png](https://github.com/xiaolou888/qushuiyin-jianyi/blob/main/%E5%9B%BE%E7%89%87/3.png)
